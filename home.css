@@ -4,12 +4,14 @@
     font-weight: normal;
     font-style: normal;
 }
+
 #typed{
     padding: 5px;
     text-align: center;
     font-family: 'SuncheonB';
     color: rgb(66, 61, 61);
 }
+
 .content{
     width: 450px;
     height: 200px;
