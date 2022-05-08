@@ -55,7 +55,7 @@ function text(){
     else{
         if(key==1){
         if(ask=="알겠어"){
-            answer.innerHTML="어떻게 대답해야해 찍찍?";
+            answer.innerHTML="'" +`${Q}`+ "' "+ "에 어떻게 대답할까 찍찍?";
             key=2;
         }
         else{
